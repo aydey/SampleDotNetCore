@@ -1,0 +1,6 @@
+{
+	"name": "Sample DotNet project",
+	"version": "3.0",
+	"manifest_version" : 1,
+	"description": "A Sample Dot Net webApplication from Visual Studio 2017"
+}
