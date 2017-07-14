@@ -1,0 +1,9 @@
+c:\users\aydey\documents\visual studio 2017\Projects\dotnetcoreonnetcore\dotnetcoreonnetcore\bin\Debug\netcoreapp1.1\dotnetcoreonnetcore.deps.json
+c:\users\aydey\documents\visual studio 2017\Projects\dotnetcoreonnetcore\dotnetcoreonnetcore\bin\Debug\netcoreapp1.1\dotnetcoreonnetcore.dll
+c:\users\aydey\documents\visual studio 2017\Projects\dotnetcoreonnetcore\dotnetcoreonnetcore\bin\Debug\netcoreapp1.1\dotnetcoreonnetcore.pdb
+c:\users\aydey\documents\visual studio 2017\Projects\dotnetcoreonnetcore\dotnetcoreonnetcore\obj\Debug\netcoreapp1.1\dotnetcoreonnetcore.AssemblyInfo.cs
+c:\users\aydey\documents\visual studio 2017\Projects\dotnetcoreonnetcore\dotnetcoreonnetcore\obj\Debug\netcoreapp1.1\dotnetcoreonnetcore.dll
+c:\users\aydey\documents\visual studio 2017\Projects\dotnetcoreonnetcore\dotnetcoreonnetcore\obj\Debug\netcoreapp1.1\dotnetcoreonnetcore.pdb
+C:\Users\aydey\Documents\Visual Studio 2017\Projects\dotnetcoreonnetcore\dotnetcoreonnetcore\bin\Debug\netcoreapp1.1\dotnetcoreonnetcore.runtimeconfig.json
+C:\Users\aydey\Documents\Visual Studio 2017\Projects\dotnetcoreonnetcore\dotnetcoreonnetcore\bin\Debug\netcoreapp1.1\dotnetcoreonnetcore.runtimeconfig.dev.json
+C:\Users\aydey\Documents\Visual Studio 2017\Projects\dotnetcoreonnetcore\dotnetcoreonnetcore\obj\Debug\netcoreapp1.1\dotnetcoreonnetcore.csprojResolveAssemblyReference.cache
